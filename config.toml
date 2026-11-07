@@ -1,0 +1,4 @@
+project_id = "yhs-ssc-2028"
+
+[functions.submit-snake-score]
+verify_jwt = false
